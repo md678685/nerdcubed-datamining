@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³ Plays... Call of Duty: Ghosts Multiplayer",
+    "date": "2013-12-02",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://store.steampowered.com/app/209160/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-call-of-duty-ghosts-multiplayer/",
+        "small": "background: url(/img/h/eee2a8d3e170c9a4652bd7d1714f1924.jpg) -448px -378px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

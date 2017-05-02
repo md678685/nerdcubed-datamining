@@ -1,0 +1,36 @@
+{
+    "title": "Dad³ Plays... GTA IV - Carmageddon Mod",
+    "date": "2013-06-21",
+    "links": [
+        {
+            "name": "Game link",
+            "url": "http://www.rockstargames.com/IV/"
+        },
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/12210/"
+        },
+        {
+            "name": "Carmageddon Mod",
+            "url": "http://www.moddb.com/mods/gtaiv-carmageddon"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-plays-gta-iv-carmageddon-mod/",
+        "small": "background: url(/img/h/3202bd51737d8775bbfce1cbae8e3047.jpg) 0px -252px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_3"
+        ]
+    }
+}

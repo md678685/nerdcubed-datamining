@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³ Extra - LittleBigPlanet 2 Outtakes!",
+    "date": "2013-12-03",
+    "links": [
+        {
+            "name": "Game link",
+            "url": "http://www.littlebigplanet.com/games/littlebigplanet-2"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Who Likes to Party",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-extra-littlebigplanet-2-outtakes/",
+        "small": "background: url(/img/h/eee2a8d3e170c9a4652bd7d1714f1924.jpg) -224px -504px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

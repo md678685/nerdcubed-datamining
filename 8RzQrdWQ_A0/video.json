@@ -1,0 +1,22 @@
+{
+    "title": "Dad³ Plays... Lego Marvel Super Heroes",
+    "date": "2013-12-07",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://marvelsuperheroes.lego.com/en-gb/default.aspx"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-plays-lego-marvel-super-heroes/",
+        "small": "background: url(/img/h/eee2a8d3e170c9a4652bd7d1714f1924.jpg) -672px -378px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_3"
+        ]
+    }
+}

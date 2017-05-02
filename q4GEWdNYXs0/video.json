@@ -1,0 +1,22 @@
+{
+    "title": "Dad³ Plays... BioShock",
+    "date": "2014-01-25",
+    "links": [
+        {
+            "name": "Game link",
+            "url": "http://www.2kgames.com/bioshock/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-plays-bioshock/",
+        "small": "background: url(/img/h/9796273602a83d81539b780063760462.jpg) -448px -126px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_3"
+        ]
+    }
+}

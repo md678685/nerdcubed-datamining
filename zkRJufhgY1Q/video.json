@@ -1,0 +1,36 @@
+{
+    "title": "Nerd³'s Three Free Games Friday - 35",
+    "date": "2013-07-05",
+    "links": [
+        {
+            "name": "BRICK[bricksmash]SMASH",
+            "url": "http://www.draknek.org/games/BRICKbricksmashSMASH/"
+        },
+        {
+            "name": "Ancient Greek Geometry",
+            "url": "http://www.sciencevsmagic.net/geo/"
+        },
+        {
+            "name": "A Duck Has An Adventure",
+            "url": "http://e-merl.com/stuff/duckadv.html"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-three-free-games-friday-35/",
+        "small": "background: url(/img/h/e6bcfd55ff7e6b2d66913b6b613a4af6.jpg) 0px -126px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

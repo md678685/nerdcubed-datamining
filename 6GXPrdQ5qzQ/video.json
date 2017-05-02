@@ -1,0 +1,28 @@
+{
+    "title": "Dad³ Plays... Star Wars: The Force Unleashed",
+    "date": "2014-09-20",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.starwars.com/games-apps/star-wars-the-force-unleashed"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Paul Whiteman - Ragin' the Scale 1934",
+            "track": "Music",
+            "url": "https://archive.org/details/PaulWhiteman-261-270"
+        }
+    ],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-plays-star-wars-the-force-unleashed/",
+        "small": "background: url(/img/h/7f118e269903cd0164dad5e0310be499.jpg) -224px -126px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_3"
+        ]
+    }
+}

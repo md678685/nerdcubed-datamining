@@ -1,0 +1,30 @@
+{
+    "title": "Nerd³ FW - The Binding of Isaac: Rebirth",
+    "date": "2014-11-06",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://bindingofisaac.com/"
+        },
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/250900/"
+        },
+        {
+            "name": "End theme by the incredible Dan Bull!",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-fw-the-binding-of-isaac-rebirth/",
+        "small": "background: url(/img/h/4b749ce81ee4141009684a2db5ab984f.jpg) -448px 0px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

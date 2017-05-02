@@ -1,0 +1,30 @@
+{
+    "title": "Nerd³ FW - Gods Will Be Watching",
+    "date": "2014-11-18",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.godswillbewatching.com/"
+        },
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/274290/"
+        },
+        {
+            "name": "End theme by the incredible Dan Bull!",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-fw-gods-will-be-watching/",
+        "small": "background: url(/img/h/d6e540dfb2656f56303247129fd2a957.jpg) 0px -252px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

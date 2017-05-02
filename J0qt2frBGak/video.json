@@ -1,0 +1,28 @@
+{
+    "title": "And We're Off...",
+    "date": "2012-03-28",
+    "links": [],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Plucky Daisy",
+            "url": "http://www.incompetech.com/"
+        },
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Airport Lounge",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "Officiallynerdcubed",
+        "url": "https://www.youtube.com/channel/UCwfFfKK8h1PBJkbv1tJjWJg"
+    },
+    "websiteData": {
+        "path": "/videos/and-we-re-off/",
+        "small": "background: url(/img/h/2207f6b25c966007bf92a0f7246f073e.jpg) -224px -504px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_2"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "title": "Santa Vaas is Coming to Town",
+    "date": "2012-12-22",
+    "links": [
+        {
+            "name": "Wot's Twitter!",
+            "url": "https://twitter.com/wotfanar"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Plucky Daisy",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "Officiallynerdcubed",
+        "url": "https://www.youtube.com/channel/UCwfFfKK8h1PBJkbv1tJjWJg"
+    },
+    "websiteData": {
+        "path": "/videos/santa-vaas-is-coming-to-town/",
+        "small": "background: url(/img/h/e1d127113bc9cf557ec3fbbab3be2b97.jpg) 0px 0px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_2"
+        ]
+    }
+}

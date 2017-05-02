@@ -1,0 +1,46 @@
+{
+    "title": "Nerd³ Plays... Saints Row: The Third",
+    "date": "2012-03-03",
+    "links": [
+        {
+            "name": "Game Site",
+            "url": "http://www.saintsrow.com/"
+        },
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/55230/"
+        },
+        {
+            "name": "Best Mod Site",
+            "url": "https://www.saintsrowmods.com"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Danse Macabre - Big Hit 1",
+            "url": "http://www.incompetech.com/"
+        },
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Hero Theme",
+            "url": "http://www.incompetech.com/"
+        },
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Hero Down",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-saints-row-the-third/",
+        "small": "background: url(/img/h/2207f6b25c966007bf92a0f7246f073e.jpg) -224px 0px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

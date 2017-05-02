@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³'s Father and Son-Days - Gauntlet",
+    "date": "2014-09-21",
+    "links": [
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/258970/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-father-and-son-days-gauntlet/",
+        "small": "background: url(/img/h/7f118e269903cd0164dad5e0310be499.jpg) -448px -126px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

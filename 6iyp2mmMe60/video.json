@@ -1,0 +1,23 @@
+{
+    "title": "More!",
+    "date": "2013-08-12",
+    "links": [],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Exciting Trailer",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "Officiallynerdcubed",
+        "url": "https://www.youtube.com/channel/UCwfFfKK8h1PBJkbv1tJjWJg"
+    },
+    "websiteData": {
+        "path": "/videos/more/",
+        "small": "background: url(/img/h/610ff28b6b006f557faf5f3557589739.jpg) 0px 0px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_2"
+        ]
+    }
+}

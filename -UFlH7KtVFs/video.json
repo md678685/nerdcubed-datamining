@@ -1,0 +1,32 @@
+{
+    "title": "Nerd³ Plays... Octodad: Dadliest Catch",
+    "date": "2014-02-08",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.octodadgame.com/octodad/download/"
+        },
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/224480/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-octodad-dadliest-catch/",
+        "small": "background: url(/img/h/62c687889c155d4a2163eb03cc7cb331.jpg) -448px -126px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

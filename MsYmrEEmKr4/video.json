@@ -1,0 +1,22 @@
+{
+    "title": "Nerd³ Plays... Dungeon Keeper",
+    "date": "2012-10-23",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.gog.com/gamecard/dungeon_keeper"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-dungeon-keeper/",
+        "small": "background: url(/img/h/c3064029e4008b57be8262bf0edc1a13.jpg) -448px 0px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

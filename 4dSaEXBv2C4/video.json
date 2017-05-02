@@ -1,0 +1,32 @@
+{
+    "title": "Nerd³ FW - Cities: Skylines",
+    "date": "2015-03-16",
+    "links": [
+        {
+            "name": "Game link",
+            "url": "http://www.citiesskylines.com/"
+        },
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/255710/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-fw-cities-skylines/",
+        "small": "background: url(/img/h/6ebee038eb8188aec4c4d3c3cb8cb9da.jpg) -672px -126px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

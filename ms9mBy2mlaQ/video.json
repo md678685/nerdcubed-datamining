@@ -1,0 +1,23 @@
+{
+    "title": "Dad³ Vlogs! Golf Time!",
+    "date": "2015-02-20",
+    "links": [],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Life of Riley",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-vlogs-golf-time/",
+        "small": "background: url(/img/h/c81a998660bc2c70dea347bbd40781a0.jpg) -224px -504px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_3"
+        ]
+    }
+}

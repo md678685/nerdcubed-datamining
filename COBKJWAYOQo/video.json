@@ -1,0 +1,26 @@
+{
+    "title": "Dad³ Plays... Wings of Prey",
+    "date": "2013-07-26",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.airwargame.com/"
+        },
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/45300/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-plays-wings-of-prey/",
+        "small": "background: url(/img/h/076f4d6e24f6f765a51a7484d6402e42.jpg) -224px -252px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_3"
+        ]
+    }
+}

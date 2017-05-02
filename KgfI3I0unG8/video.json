@@ -1,0 +1,22 @@
+{
+    "title": "Nerd³ Plays... Driver: San Francisco",
+    "date": "2012-05-27",
+    "links": [
+        {
+            "name": "Game link!",
+            "url": "http://driver-thegame.ubi.com/driver-san-francisco/en-US/home/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-driver-san-francisco/",
+        "small": "background: url(/img/h/fcbc663550d3eb68c5050efbe2a84859.jpg) -672px -504px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

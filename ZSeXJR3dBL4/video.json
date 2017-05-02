@@ -1,0 +1,48 @@
+{
+    "title": "Nerd³'s Choose Your Own Let's Play - The Pointless Adventure Game!",
+    "date": "2012-04-21",
+    "links": [
+        {
+            "name": "Explore",
+            "url": "http://www.youtube.com/watch?v=PiAqaVt8pKk"
+        },
+        {
+            "name": "Escape",
+            "url": "http://www.youtube.com/watch?v=QTq_-Xvtw3s"
+        },
+        {
+            "name": "Live Here",
+            "url": "http://www.youtube.com/watch?v=i4Tzn3ndabQ"
+        },
+        {
+            "name": "Attack",
+            "url": "http://www.youtube.com/watch?v=fox3GoaxQAQ"
+        },
+        {
+            "name": "Her Twitter",
+            "url": "http://twitter.com/baylyface"
+        },
+        {
+            "name": "Her Tumblr",
+            "url": "http://baylyface.tumblr.com/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Danse Macabre - Low Strings Finale",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-choose-your-own-let-s-play-the-pointless-adventure-game/",
+        "small": "background: url(/img/h/fcbc663550d3eb68c5050efbe2a84859.jpg) -224px -252px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

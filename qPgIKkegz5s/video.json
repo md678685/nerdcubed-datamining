@@ -1,0 +1,38 @@
+{
+    "title": "Nerd³ Unboxing - Loot Crate - December 2013",
+    "date": "2014-01-11",
+    "links": [
+        {
+            "name": "Get LootCrate!",
+            "url": "http://lootcrate.com/Nerdcubed"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "58008",
+            "url": "http://www.incompetech.com/"
+        },
+        {
+            "credit": "Kevin MacLeod",
+            "track": "No Good Layabout",
+            "url": "http://www.incompetech.com/"
+        },
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Schmetterling",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "Officiallynerdcubed",
+        "url": "https://www.youtube.com/channel/UCwfFfKK8h1PBJkbv1tJjWJg"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-unboxing-loot-crate-december-2013/",
+        "small": "background: url(/img/h/42557c556501e816e3c6777232ff3e8c.jpg) -224px -126px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_2"
+        ]
+    }
+}

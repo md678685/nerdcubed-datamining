@@ -1,0 +1,22 @@
+{
+    "title": "Nerd³ Plays... Half Life 2",
+    "date": "2012-09-20",
+    "links": [
+        {
+            "name": "Game link!",
+            "url": "http://orange.half-life2.com/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-half-life-2/",
+        "small": "background: url(/img/h/34db405a464ebe6c8eaa3936c602fac2.jpg) -672px 0px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

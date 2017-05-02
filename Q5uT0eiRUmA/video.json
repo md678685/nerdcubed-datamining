@@ -1,0 +1,23 @@
+{
+    "title": "Dad³ Vlogs!?! A Mini-Vlog!",
+    "date": "2014-06-01",
+    "links": [],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Beach Party",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-vlogs-a-mini-vlog/",
+        "small": "background: url(/img/h/63dd137749e960584e8397199930341b.jpg) -448px 0px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_3"
+        ]
+    }
+}

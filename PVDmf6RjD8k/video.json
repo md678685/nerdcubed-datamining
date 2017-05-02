@@ -1,0 +1,77 @@
+{
+    "title": "Nerd³'s Favourite YouTubers",
+    "date": "2013-07-27",
+    "links": [
+        {
+            "name": "Ashens",
+            "url": "http://www.youtube.com/user/ashens/"
+        },
+        {
+            "name": "Boogie2988",
+            "url": "http://www.youtube.com/user/boogie2988"
+        },
+        {
+            "name": "Dan Bull",
+            "url": "http://www.youtube.com/user/douglby"
+        },
+        {
+            "name": "Emma Blackery",
+            "url": "http://www.youtube.com/user/emmablackery"
+        },
+        {
+            "name": "Food Wishes",
+            "url": "http://www.youtube.com/user/foodwishes"
+        },
+        {
+            "name": "The Slingshot Channel",
+            "url": "http://www.youtube.com/user/JoergSprave"
+        },
+        {
+            "name": "Sex+",
+            "url": "http://www.youtube.com/user/lacigreen"
+        },
+        {
+            "name": "Hannah Hart",
+            "url": "http://www.youtube.com/user/MyHarto"
+        },
+        {
+            "name": "Nathan Barnatt",
+            "url": "http://www.youtube.com/user/nathanjbarnatt"
+        },
+        {
+            "name": "RockLeeSmile",
+            "url": "http://www.youtube.com/user/RockLeeSmile"
+        },
+        {
+            "name": "Wheezy Waiter",
+            "url": "http://www.youtube.com/user/wheezywaiter"
+        },
+        {
+            "name": "ZeFrank",
+            "url": "http://www.youtube.com/user/zefrank1"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Plucky Daisy",
+            "url": "http://www.incompetech.com/"
+        },
+        {
+            "credit": "Kevin MacLeod",
+            "track": "For the Fallen",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-favourite-youtubers/",
+        "small": "background: url(/img/h/076f4d6e24f6f765a51a7484d6402e42.jpg) -448px -126px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

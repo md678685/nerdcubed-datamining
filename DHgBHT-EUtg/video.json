@@ -1,0 +1,48 @@
+{
+    "title": "Nerd³ TubeCast - Episode 2",
+    "date": "2012-08-12",
+    "links": [
+        {
+            "name": "Wot's Twitter!",
+            "url": "https://twitter.com/wotfanar"
+        },
+        {
+            "name": "The How to Run a Panel Panel  Anime Boston 2012",
+            "url": "http://www.youtube.com/watch?v=GXMEJrYFg2o&amp;feature=player_detailpage#t=541s"
+        },
+        {
+            "name": "Josie Long  Minesweeper",
+            "url": "http://www.youtube.com/watch?v=uLbbxhXt1Ns"
+        },
+        {
+            "name": "Wheezy Waiter",
+            "url": "http://www.youtube.com/user/wheezywaiter"
+        },
+        {
+            "name": "Meekakitty's Star Trek Girl",
+            "url": "http://www.youtube.com/watch?v=bwTfXNMZG9c"
+        },
+        {
+            "name": "Qwertee T-Shirts",
+            "url": "http://www.qwertee.com/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Plucky Daisy",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "Officiallynerdcubed",
+        "url": "https://www.youtube.com/channel/UCwfFfKK8h1PBJkbv1tJjWJg"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-tubecast-episode-2/",
+        "small": "background: url(/img/h/b3cccd79fbd87078649d5237e37049d3.jpg) -224px -378px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_2"
+        ]
+    }
+}

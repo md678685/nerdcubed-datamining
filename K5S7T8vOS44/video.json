@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³ Plays... Tales from the Minus Lab",
+    "date": "2013-06-18",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.theminuslab.com/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-tales-from-the-minus-lab/",
+        "small": "background: url(/img/h/3202bd51737d8775bbfce1cbae8e3047.jpg) 0px 0px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

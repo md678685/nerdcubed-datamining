@@ -1,0 +1,56 @@
+{
+    "title": "Nerd³ TubeCast - Episode 5",
+    "date": "2012-10-07",
+    "links": [
+        {
+            "name": "Wot's Twitter!",
+            "url": "https://twitter.com/wotfanar"
+        },
+        {
+            "name": "3 20 - Star Trek Renegades",
+            "url": "http://www.kickstarter.com/projects/145553614/star-trek-renegades"
+        },
+        {
+            "name": "7 40 - Kickstarter Book Fail",
+            "url": "http://www.kickstarter.com/projects/glennf/crowdfunding-a-guide-to-what-works-and-why"
+        },
+        {
+            "name": "9 50 - Eurogamer Video",
+            "url": "http://www.youtube.com/watch?v=8EmqsxDUrDU"
+        },
+        {
+            "name": "11 30 - Tomb Raider Video",
+            "url": "http://www.youtube.com/watch?v=I5-bJ3AsqTE"
+        },
+        {
+            "name": "31 00 - Creator Hub",
+            "url": "http://http://www.youtube.com/watch?v=cEMqxcfIqp4"
+        },
+        {
+            "name": "31 20 - Golden Joysticks",
+            "url": "http://www.youtube.com/user/GoldenJoystickAwards/vote"
+        },
+        {
+            "name": "40 00 - The wonderful little Dr Who reviewer",
+            "url": "http://www.youtube.com/user/LindaleeRose"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Plucky Daisy",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "Officiallynerdcubed",
+        "url": "https://www.youtube.com/channel/UCwfFfKK8h1PBJkbv1tJjWJg"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-tubecast-episode-5/",
+        "small": "background: url(/img/h/c4fda46ee34c1a7c2df2d869d6717f8a.jpg) -448px -126px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_2"
+        ]
+    }
+}

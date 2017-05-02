@@ -1,0 +1,22 @@
+{
+    "title": "Dad³ Plays... Red Dead Redemption",
+    "date": "2013-09-21",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.rockstargames.com/reddeadredemption"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-plays-red-dead-redemption/",
+        "small": "background: url(/img/h/9a02e9d88563774e4f59dcb596779abe.jpg) -448px -504px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_3"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Nerd³ Extra - 4th Internet Birthday Announcements!",
+    "date": "2014-09-23",
+    "links": [
+        {
+            "name": "Steam Curator Page",
+            "url": "http://store.steampowered.com/curator/6858960/"
+        },
+        {
+            "name": "Going in Raw  Episode 1",
+            "url": "http://goinginraw.libsyn.com/going-in-raw-episode-1-night-of-champions"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Fanfare for Space",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-extra-4th-internet-birthday-announcements/",
+        "small": "background: url(/img/h/7f118e269903cd0164dad5e0310be499.jpg) 0px -378px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

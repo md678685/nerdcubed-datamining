@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³ FW - Squishy the Suicidal Pig",
+    "date": "2015-04-16",
+    "links": [
+        {
+            "name": "Steam link",
+            "url": "http://store.steampowered.com/app/318430/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-fw-squishy-the-suicidal-pig/",
+        "small": "background: url(/img/h/deab1fa132fb3f362a1956058879a7d9.jpg) -448px -126px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

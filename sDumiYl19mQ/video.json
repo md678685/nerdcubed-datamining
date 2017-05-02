@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³ Plays... Tony Hawk's Underground",
+    "date": "2014-11-29",
+    "links": [],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Moorland",
+            "url": "http://www.incompetech.com/"
+        },
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-tony-hawk-s-underground/",
+        "small": "background: url(/img/h/2eb67dcf40198a8d12f66c4de0a73824.jpg) -448px 0px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

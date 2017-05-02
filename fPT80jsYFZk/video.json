@@ -1,0 +1,28 @@
+{
+    "title": "New Video on Machinima! 13 Ways to Die - The Legend of Zelda",
+    "date": "2012-12-21",
+    "links": [
+        {
+            "name": "Link to the Machinima video",
+            "url": "http://www.youtube.com/watch?v=9Yv2kURpR9E"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "Nerd³ Theme Song",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/new-video-on-machinima-13-ways-to-die-the-legend-of-zelda/",
+        "small": "background: url(/img/h/ac4af63ffef156ca5ec96fb328339bc8.jpg) -672px -378px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Nerd³'s Let's Play Indie Games - Epic Inventor",
+    "date": "2011-11-18",
+    "links": [
+        {
+            "name": "The site for Epic Inventor",
+            "url": "http://epicinventor.com/"
+        },
+        {
+            "name": "Follow Epic Inventor on Twitter",
+            "url": "https://twitter.com/EpicInventor"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Celtic Impulse",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-let-s-play-indie-games-epic-inventor/",
+        "small": "background: url(/img/h/d5c2eff1fc5c7af203da51825c93a2ce.jpg) 0px -126px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

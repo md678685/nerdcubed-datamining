@@ -1,0 +1,32 @@
+{
+    "title": "Nerd³ Halloween Special 2014!",
+    "date": "2014-10-31",
+    "links": [
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/277751/"
+        },
+        {
+            "name": "End theme by the incredible Dan Bull!",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Unseen Horrors",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-halloween-special-2014/",
+        "small": "background: url(/img/h/06f76514571f80bccf135b1933699a57.jpg) -224px -504px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

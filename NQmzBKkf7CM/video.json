@@ -1,0 +1,22 @@
+{
+    "title": "The Nerd³ Podcast - Episode 1",
+    "date": "2014-11-04",
+    "links": [
+        {
+            "name": "Download the episode here",
+            "url": "http://assets.nerdcubed.co.uk/nerdcubed_podcast_episode_1.mp3"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "Officiallynerdcubed",
+        "url": "https://www.youtube.com/channel/UCwfFfKK8h1PBJkbv1tJjWJg"
+    },
+    "websiteData": {
+        "path": "/videos/the-nerdcubed-podcast-episode-1/",
+        "small": "background: url(/img/h/4b749ce81ee4141009684a2db5ab984f.jpg) 0px 0px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_2"
+        ]
+    }
+}

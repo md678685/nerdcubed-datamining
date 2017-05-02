@@ -1,0 +1,22 @@
+{
+    "title": "Nerd³ Plays... Red Dead Redemption",
+    "date": "2012-06-12",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://rockstargames.com/reddeadredemption/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-red-dead-redemption/",
+        "small": "background: url(/img/h/06ed51bb825f3f8aaa61cf297803c2b2.jpg) -448px -252px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

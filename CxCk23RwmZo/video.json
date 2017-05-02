@@ -1,0 +1,32 @@
+{
+    "title": "Nerd³ Plays... Amnesia: The Dark Descent",
+    "date": "2012-04-01",
+    "links": [
+        {
+            "name": "Game link",
+            "url": "http://www.amnesiagame.com/"
+        },
+        {
+            "name": "Link",
+            "url": "http://store.steampowered.com/app/15160"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Overcast",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-amnesia-the-dark-descent/",
+        "small": "background: url(/img/h/2207f6b25c966007bf92a0f7246f073e.jpg) -672px -126px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

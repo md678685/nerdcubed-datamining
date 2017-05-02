@@ -1,0 +1,32 @@
+{
+    "title": "Nerd³ The Alpha Detective - Broken Age",
+    "date": "2014-01-15",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.brokenagegame.com/"
+        },
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/232790/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-the-alpha-detective-broken-age/",
+        "small": "background: url(/img/h/42557c556501e816e3c6777232ff3e8c.jpg) -448px -378px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

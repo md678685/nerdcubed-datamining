@@ -1,0 +1,28 @@
+{
+    "title": "Dan's Vlog! Q&A",
+    "date": "2013-05-07",
+    "links": [],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Also Sprach Zarathustra",
+            "url": "http://www.incompetech.com/"
+        },
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Plucky Daisy",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "Officiallynerdcubed",
+        "url": "https://www.youtube.com/channel/UCwfFfKK8h1PBJkbv1tJjWJg"
+    },
+    "websiteData": {
+        "path": "/videos/dan-s-vlog-q-a/",
+        "small": "background: url(/img/h/0aaabb43b535d60d9bb71b62b3c811e8.jpg) -448px -126px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_2"
+        ]
+    }
+}

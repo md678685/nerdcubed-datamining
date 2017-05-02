@@ -1,0 +1,44 @@
+{
+    "title": "Nerd³ Plays... Just Cause 2 - Operation: Balloon",
+    "date": "2013-03-23",
+    "links": [
+        {
+            "name": "Game Site",
+            "url": "http://www.justcause.com/"
+        },
+        {
+            "name": "No Black market Cutscenes",
+            "url": "http://www.justcause2mods.com/mods/other/Black-Market/No-Blackmarket-Cutscenes-v2/"
+        },
+        {
+            "name": "Slow Motion",
+            "url": "http://www.justcause2mods.com/mods/other/Miscellaneous/Simple-Slow-motion-Bullet-time-Trainer-%28SLOMOv2%29/"
+        },
+        {
+            "name": "Extreme Heat",
+            "url": "http://www.justcause2mods.com/mods/other/Gameplay/Extreme-Heat/"
+        },
+        {
+            "name": "BOLOPatch",
+            "url": "http://www.justcause2mods.com/mods/other/Gameplay/BOLOPatch-4.00-%28for-v1.0.0.2%29/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-just-cause-2-operation-balloon/",
+        "small": "background: url(/img/h/6af52fcb6e4be6d2e29edb8e2eda5b09.jpg) -224px -252px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

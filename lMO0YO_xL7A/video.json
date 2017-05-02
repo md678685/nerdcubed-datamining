@@ -1,0 +1,32 @@
+{
+    "title": "Nerd³ FW - Hyphen",
+    "date": "2015-03-24",
+    "links": [
+        {
+            "name": "Game link",
+            "url": "http://www.farspacestudios.com/games/hyphen/"
+        },
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/346510/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-fw-hyphen/",
+        "small": "background: url(/img/h/659744abf2810d4059d89f2972458043.jpg) -448px -504px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

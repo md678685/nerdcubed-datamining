@@ -1,0 +1,40 @@
+{
+    "title": "100,000 Subscribers Special! Nerd³'s PARENTS Play...",
+    "date": "2012-08-05",
+    "links": [
+        {
+            "name": "Game sites",
+            "url": "http://www.olympicvideogames.com/london2012/"
+        },
+        {
+            "name": "http //www.spore.com/",
+            "url": "http://www.rockstargames.com/bully/home/"
+        },
+        {
+            "name": "http //www.farming-simulator.com/",
+            "url": "http://www.farming-simulator.com/"
+        },
+        {
+            "name": "End music is a Public Domain recording of the Hallelujah Chorus.",
+            "url": "http://www.hallelujah-chorus.com/download/mp3.html"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Plucky Daisy",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/100-000-subscribers-special-nerdcubed-parents-play/",
+        "small": "background: url(/img/h/b3cccd79fbd87078649d5237e37049d3.jpg) 0px -126px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

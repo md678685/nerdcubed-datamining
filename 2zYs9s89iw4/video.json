@@ -1,0 +1,22 @@
+{
+    "title": "The Nerd³ Podcast - Episode 6",
+    "date": "2015-04-27",
+    "links": [
+        {
+            "name": "Download the episode here",
+            "url": "http://assets.nerdcubed.co.uk/nerdcubed_podcast_episode_6.mp3"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "Officiallynerdcubed",
+        "url": "https://www.youtube.com/channel/UCwfFfKK8h1PBJkbv1tJjWJg"
+    },
+    "websiteData": {
+        "path": "/videos/the-nerdcubed-podcast-episode-6/",
+        "small": "background: url(/img/h/27177cb3ae2b1592295488a5dd570677.jpg) 0px -378px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_2"
+        ]
+    }
+}

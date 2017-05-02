@@ -1,0 +1,32 @@
+{
+    "title": "Nerd³ Challenges! Play it Blindfolded - Mirror's Edge",
+    "date": "2013-05-27",
+    "links": [
+        {
+            "name": "Game link",
+            "url": "http://www.ea.com/mirrors-edge"
+        },
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/17410/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-challenges-play-it-blindfolded-mirror-s-edge/",
+        "small": "background: url(/img/h/13c10afc01504406cd7b43934c49409e.jpg) -672px -252px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Nerd³ Plays... Armadillo Run",
+    "date": "2012-03-09",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.armadillorun.com/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Danse Macabre - Big Hit 1",
+            "url": "http://www.incompetech.com/"
+        },
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Human Beat",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-armadillo-run/",
+        "small": "background: url(/img/h/2207f6b25c966007bf92a0f7246f073e.jpg) -224px -126px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

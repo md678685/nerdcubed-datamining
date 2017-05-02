@@ -1,0 +1,32 @@
+{
+    "title": "Nerd³ Challenges! SpacePlane™ - Kerbal Space Program",
+    "date": "2014-06-26",
+    "links": [
+        {
+            "name": "Game link",
+            "url": "https://kerbalspaceprogram.com/"
+        },
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/220200/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-challenges-spaceplane-kerbal-space-program/",
+        "small": "background: url(/img/h/8f6c8e1936a95748c7386e3d4b992c1e.jpg) -224px -504px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

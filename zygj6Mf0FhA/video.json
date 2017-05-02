@@ -1,0 +1,22 @@
+{
+    "title": "Nerd³ Plays... Worms Armageddon",
+    "date": "2012-10-09",
+    "links": [
+        {
+            "name": "Game Link  (Note, can only be brought with a Worms Revolution pre-order on steam for now)",
+            "url": "http://store.steampowered.com/app/217200/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-worms-armageddon/",
+        "small": "background: url(/img/h/c4fda46ee34c1a7c2df2d869d6717f8a.jpg) 0px -378px no-repeat; width: 224px; height: 126px",
+        "tages": [
+            "channel_1"
+        ]
+    }
+}

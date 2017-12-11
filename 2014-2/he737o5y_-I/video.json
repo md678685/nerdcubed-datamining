@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³ 101 -  Lightning Returns: Final Fantasy XIII",
+    "date": "2014-03-15",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.lightningreturns.com/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-101-lightning-returns-final-fantasy-xiii/",
+        "small": "background: url(/img/h/223d53580a0f1eead297ccf96ee8a597.jpg) -224px -126px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

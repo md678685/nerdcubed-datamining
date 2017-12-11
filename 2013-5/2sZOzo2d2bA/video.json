@@ -1,0 +1,32 @@
+{
+    "title": "Nerd³ Completes... Psychonauts - Part 2",
+    "date": "2013-06-13",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.psychonauts.com/"
+        },
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/3830/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-completes-psychonauts-part-2/",
+        "small": "background: url(/img/h/cbd6df9e2c2349c503f2367c2c49169f.jpg) -448px -504px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

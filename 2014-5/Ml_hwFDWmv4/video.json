@@ -1,0 +1,22 @@
+{
+    "title": "Dad³ Plays... Knack",
+    "date": "2014-06-28",
+    "links": [
+        {
+            "name": "Game link",
+            "url": "http://us.playstation.com/ps4/games/knack-ps4.html"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-plays-knack/",
+        "small": "background: url(/img/h/8f6c8e1936a95748c7386e3d4b992c1e.jpg) -672px -126px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_3"
+        ]
+    }
+}

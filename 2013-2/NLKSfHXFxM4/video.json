@@ -1,0 +1,23 @@
+{
+    "title": "Dan's Vlog! Holiday!!",
+    "date": "2013-03-12",
+    "links": [],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Plucky Daisy",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "Officiallynerdcubed",
+        "url": "https://www.youtube.com/channel/UCwfFfKK8h1PBJkbv1tJjWJg"
+    },
+    "websiteData": {
+        "path": "/videos/dan-s-vlog-holiday/",
+        "small": "background: url(/img/h/4873dfa3b9b9273ed1245275d49e5c52.jpg) -224px -252px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_2"
+        ]
+    }
+}

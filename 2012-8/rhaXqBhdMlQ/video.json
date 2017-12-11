@@ -1,0 +1,73 @@
+{
+    "title": "Nerd³ Plays... Tony Hawk's Pro Skater HD",
+    "date": "2012-09-26",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://store.steampowered.com/app/207210/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Lorenzo's Music",
+            "track": "You Got To Feel It Tonight",
+            "url": "http://www.lorenzosmusic.com"
+        },
+        {
+            "credit": "Jahzzar",
+            "track": "So Easy",
+            "url": "http://betterwithmusic.com"
+        },
+        {
+            "credit": "The Freak Fandango Orchestra",
+            "track": "Nevermore",
+            "url": "http://www.freakfandango.es/"
+        },
+        {
+            "credit": "The Freak Fandango Orchestra",
+            "track": "Hitmans Lovesong feat. Paola Graziano",
+            "url": "http://www.freakfandango.es/"
+        },
+        {
+            "credit": "Brad Sucks",
+            "track": "Bad Sign",
+            "url": "http://www.bradsucks.net/"
+        },
+        {
+            "credit": "The Freak Fandango Orchestra",
+            "track": "Late as Usual",
+            "url": "http://www.freakfandango.es/"
+        },
+        {
+            "credit": "Room For A Ghost",
+            "track": "No.02",
+            "url": "http://soundcloud.com/roomforaghost"
+        },
+        {
+            "credit": "Lorenzo's Music",
+            "track": "We All Fall Down",
+            "url": "http://www.lorenzosmusic.com"
+        },
+        {
+            "credit": "Caühaüs",
+            "track": "Rednecks with White Faces",
+            "url": "http://freemusicarchive.org/music/Cahas/Calling_All_Fiends/24_-_cauhaus_-_rednecks_with_white_faces_192kb"
+        },
+        {
+            "credit": "Jahzzar",
+            "track": "Fireworks",
+            "url": "http://betterwithmusic.com"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-tony-hawk-s-pro-skater-hd/",
+        "small": "background: url(/img/h/c4fda46ee34c1a7c2df2d869d6717f8a.jpg) 0px 0px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

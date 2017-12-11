@@ -1,0 +1,30 @@
+{
+    "title": "Dad³ Plays... Payday 2",
+    "date": "2013-08-02",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.crimenet.info/"
+        },
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/218620/"
+        },
+        {
+            "name": "Extra music",
+            "url": "http://incompetech.com/music/royalty-free/index.html?keywords=%22Easy+Lemon%22&amp;Search=Search"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-plays-payday-2/",
+        "small": "background: url(/img/h/076f4d6e24f6f765a51a7484d6402e42.jpg) 0px -504px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_3"
+        ]
+    }
+}

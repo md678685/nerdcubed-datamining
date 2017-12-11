@@ -1,0 +1,22 @@
+{
+    "title": "Nerd³ Plays... Proteus",
+    "date": "2012-02-27",
+    "links": [
+        {
+            "name": "Get the Game!",
+            "url": "http://www.visitproteus.com/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-proteus/",
+        "small": "background: url(/img/h/1a308b45045556df11249b4401cad854.jpg) -672px -504px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

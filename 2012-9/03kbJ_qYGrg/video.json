@@ -1,0 +1,26 @@
+{
+    "title": "Nerd³ Plays... The Amazing Spider-Man",
+    "date": "2012-10-06",
+    "links": [
+        {
+            "name": "To fix the low FPS on AMD cards do this",
+            "url": "http://uk.gamespot.com/the-amazing-spider-man-2012/forum/ati-gpu-users-poor-fps-fix-100-working-63820013/"
+        },
+        {
+            "name": "Game Link",
+            "url": "http://www.theamazingspidermangame.com/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-the-amazing-spider-man/",
+        "small": "background: url(/img/h/c4fda46ee34c1a7c2df2d869d6717f8a.jpg) -448px 0px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

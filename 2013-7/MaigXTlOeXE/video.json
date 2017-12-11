@@ -1,0 +1,22 @@
+{
+    "title": "Dad³ Plays... Prototype 2",
+    "date": "2013-08-23",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.prototypegame.com/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-plays-prototype-2/",
+        "small": "background: url(/img/h/610ff28b6b006f557faf5f3557589739.jpg) -672px -378px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_3"
+        ]
+    }
+}

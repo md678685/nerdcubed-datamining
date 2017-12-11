@@ -1,0 +1,22 @@
+{
+    "title": "Dad³ Plays... Kerbal Space Program",
+    "date": "2013-04-26",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "https://kerbalspaceprogram.com/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-plays-kerbal-space-program/",
+        "small": "background: url(/img/h/30e21b2564c7052a1ea1ee34e9c80865.jpg) -224px -126px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_3"
+        ]
+    }
+}

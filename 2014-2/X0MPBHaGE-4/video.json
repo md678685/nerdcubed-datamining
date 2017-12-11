@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³ and Emma Blackery do Reddit!",
+    "date": "2014-03-18",
+    "links": [
+        {
+            "name": "Emma's channel!",
+            "url": "http://www.youtube.com/user/emmablackery"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Just As Soon",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "Officiallynerdcubed",
+        "url": "https://www.youtube.com/channel/UCwfFfKK8h1PBJkbv1tJjWJg"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-and-emma-blackery-do-reddit/",
+        "small": "background: url(/img/h/223d53580a0f1eead297ccf96ee8a597.jpg) -448px 0px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_2"
+        ]
+    }
+}

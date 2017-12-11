@@ -1,0 +1,23 @@
+{
+    "title": "THE NERD³ HUMBLE STORE IS HERE!",
+    "date": "2015-02-15",
+    "links": [],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Local Forecast - Elevator",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/the-nerdcubed-humble-store-is-here/",
+        "small": "background: url(/img/h/4b538e21ee746248acb512c995dc0298.jpg) -672px -504px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "title": "Dad³ Plays... Crashtastic",
+    "date": "2013-05-10",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.crashtastic.com/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-plays-crashtastic/",
+        "small": "background: url(/img/h/0aaabb43b535d60d9bb71b62b3c811e8.jpg) 0px -504px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_3"
+        ]
+    }
+}

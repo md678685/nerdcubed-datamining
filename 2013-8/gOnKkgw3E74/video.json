@@ -1,0 +1,37 @@
+{
+    "title": "Nerd³ Plays... Grand Theft Auto V",
+    "date": "2013-09-28",
+    "links": [
+        {
+            "name": "Interview with Steven Moffat",
+            "url": "http://www.youtube.com/watch?v=JeCM7LiThEs"
+        },
+        {
+            "name": "Game Link",
+            "url": "http://www.rockstargames.com/V/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Local Forecast - Elevator",
+            "url": "http://www.incompetech.com/"
+        },
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-grand-theft-auto-v/",
+        "small": "background: url(/img/h/64aeb0201c56d65b1e731f247e0ea559.jpg) 0px -252px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Nerd³ Plays... RollerCoaster Tycoon 3",
+    "date": "2012-05-16",
+    "links": [
+        {
+            "name": "FreddieW Video",
+            "url": "https://www.youtube.com/watch?v=eYDjV7ajuMo"
+        },
+        {
+            "name": "Game link!",
+            "url": "http://www.rollercoastertycoon.com/rct3.php"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-rollercoaster-tycoon-3/",
+        "small": "background: url(/img/h/fcbc663550d3eb68c5050efbe2a84859.jpg) -672px 0px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

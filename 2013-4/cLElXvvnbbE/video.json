@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³ Plays... Black",
+    "date": "2013-05-11",
+    "links": [
+        {
+            "name": "Game link",
+            "url": "http://marketplace.xbox.com/en-GB/Product/BLACK/66acd000-77fe-1000-9115-d80245410868"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-black/",
+        "small": "background: url(/img/h/0aaabb43b535d60d9bb71b62b3c811e8.jpg) -672px 0px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

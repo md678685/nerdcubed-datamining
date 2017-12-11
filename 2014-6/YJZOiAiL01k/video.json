@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³ FW - Oddworld: New 'n' Tasty!",
+    "date": "2014-07-28",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.oddworld.com/oddworldgames/new-n-tasty/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-fw-oddworld-new-n-tasty/",
+        "small": "background: url(/img/h/99e79cc855b25f157f8e5abce62b2c6f.jpg) -672px -504px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

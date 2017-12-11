@@ -1,0 +1,28 @@
+{
+    "title": "Dad³ Anniversary Special!",
+    "date": "2014-04-26",
+    "links": [],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Also Sprach Zarathustra",
+            "url": "http://www.incompetech.com/"
+        },
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Egmont Overture",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-anniversary-special/",
+        "small": "background: url(/img/h/87e027bf530eac6023959aa03aff9f58.jpg) -448px 0px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

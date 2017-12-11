@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³'s Hell... Skyscraper Simulator",
+    "date": "2014-10-23",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "https://www.youtube.com/watch?v=28yTXJbkD-I"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-hell-skyscraper-simulator/",
+        "small": "background: url(/img/h/1a4b4fa4c757d3e2a22b0fe983ca8a2b.jpg) -672px -504px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

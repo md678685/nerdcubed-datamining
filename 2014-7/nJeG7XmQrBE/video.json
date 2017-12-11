@@ -1,0 +1,36 @@
+{
+    "title": "LIVE TONIGHT! Little & Cubed Vs. Rockstar!",
+    "date": "2014-08-22",
+    "links": [
+        {
+            "name": "Twitch",
+            "url": "http://www.twitch.tv/rockstargames"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://www.youtube.com/watch?v=exxTc_XnQY4"
+        },
+        {
+            "name": "Rockstar Site",
+            "url": "http://socialclub.rockstargames.com/events"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Undaunted",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/live-tonight-little-cubed-vs-rockstar/",
+        "small": "background: url(/img/h/d61c1a81a006688a127efad3920e6953.jpg) -672px -378px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

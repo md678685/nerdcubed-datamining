@@ -1,0 +1,22 @@
+{
+    "title": "Nerd³ Plays... Hard Time",
+    "date": "2012-07-19",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.mdickie.com/downloads.htm"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-hard-time/",
+        "small": "background: url(/img/h/a7c3f4e85869e012c78197fc496049f3.jpg) -448px -252px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

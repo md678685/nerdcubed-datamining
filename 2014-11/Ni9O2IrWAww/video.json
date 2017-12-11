@@ -1,0 +1,32 @@
+{
+    "title": "Nerd³ FW - Boson X",
+    "date": "2014-12-16",
+    "links": [
+        {
+            "name": "Free Version Link",
+            "url": "http://www.boson-x.com/"
+        },
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/302610/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-fw-boson-x/",
+        "small": "background: url(/img/h/9cd8d508f770d2643f7ae4f5c07f8e0a.jpg) -224px -378px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³ Plays... Halo 4",
+    "date": "2012-11-10",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.halowaypoint.com/halo4"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-halo-4/",
+        "small": "background: url(/img/h/256d168778cf91a557d52d52d507848e.jpg) -224px -252px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

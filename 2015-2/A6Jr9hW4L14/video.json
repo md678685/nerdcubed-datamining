@@ -1,0 +1,23 @@
+{
+    "title": "Dad³ Vlogs! Holiday!",
+    "date": "2015-03-27",
+    "links": [],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Fiddles McGinty",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-vlogs-holiday/",
+        "small": "background: url(/img/h/a6462c02948383fb45426d556efda733.jpg) -224px 0px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_3"
+        ]
+    }
+}

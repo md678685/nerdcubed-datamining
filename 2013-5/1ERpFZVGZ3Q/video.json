@@ -1,0 +1,36 @@
+{
+    "title": "Nerd³ Plays... Gunpoint",
+    "date": "2013-06-03",
+    "links": [
+        {
+            "name": "Game Link (Demo here too!)",
+            "url": "http://www.gunpointgame.com/"
+        },
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/206190/"
+        },
+        {
+            "name": "Link to the level I made",
+            "url": "http://www.mediafire.com/?92r66ysxginr7oa"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-gunpoint/",
+        "small": "background: url(/img/h/cbd6df9e2c2349c503f2367c2c49169f.jpg) 0px -252px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

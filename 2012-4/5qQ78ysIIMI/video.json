@@ -1,0 +1,22 @@
+{
+    "title": "Nerd³ Plays... Batman: Arkham City",
+    "date": "2012-05-13",
+    "links": [
+        {
+            "name": "Game link!",
+            "url": "http://community.batmanarkhamcity.com/#"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-batman-arkham-city/",
+        "small": "background: url(/img/h/fcbc663550d3eb68c5050efbe2a84859.jpg) -448px -504px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

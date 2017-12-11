@@ -1,0 +1,32 @@
+{
+    "title": "Nerd³ Plays...  Saints Row IV",
+    "date": "2013-08-26",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.saintsrow.com/"
+        },
+        {
+            "name": "Overpriced Steam Link",
+            "url": "http://store.steampowered.com/app/206420/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-saints-row-iv/",
+        "small": "background: url(/img/h/ea048d1a2625d9bb4fe4cc0a6c03aa7e.jpg) 0px -126px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

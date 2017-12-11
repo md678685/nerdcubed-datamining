@@ -1,0 +1,26 @@
+{
+    "title": "Nerd³ Plays... Mirror's Edge",
+    "date": "2012-04-09",
+    "links": [
+        {
+            "name": "Game link!",
+            "url": "http://www.ea.com/mirrors-edge"
+        },
+        {
+            "name": "2D Version!",
+            "url": "http://www.ea.com/1/mirrors-edge-2d"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-mirror-s-edge/",
+        "small": "background: url(/img/h/fcbc663550d3eb68c5050efbe2a84859.jpg) 0px -126px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

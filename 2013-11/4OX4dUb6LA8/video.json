@@ -1,0 +1,22 @@
+{
+    "title": "Dad³ Plays... SSX",
+    "date": "2013-12-28",
+    "links": [
+        {
+            "name": "Game link",
+            "url": "http://www.easports.com/ssx"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-plays-ssx/",
+        "small": "background: url(/img/h/717a9be77cdf6086b868e7cae52afca8.jpg) -224px -252px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_3"
+        ]
+    }
+}

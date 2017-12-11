@@ -1,0 +1,22 @@
+{
+    "title": "A Nerd³ Machinima... Takeoff",
+    "date": "2015-04-18",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.rockstargames.com/V/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/a-nerdcubed-machinima-takeoff/",
+        "small": "background: url(/img/h/deab1fa132fb3f362a1956058879a7d9.jpg) -448px -378px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

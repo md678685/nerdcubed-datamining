@@ -1,0 +1,42 @@
+{
+    "title": "Nerd³'s E3 Thoughts",
+    "date": "2012-06-05",
+    "links": [
+        {
+            "name": "Hey Ash, Whatcha Playin'? (Nintendo stole this)",
+            "url": "http://www.gametrailers.com/video/nintendoland-hawp/713825?type=flv"
+        },
+        {
+            "name": "Microsoft",
+            "url": "http://e3.gamespot.com/press-conference/microsoft-e3/"
+        },
+        {
+            "name": "EA",
+            "url": "http://e3.gamespot.com/press-conference/ea-e3/"
+        },
+        {
+            "name": "Ubisoft",
+            "url": "http://e3.gamespot.com/press-conference/ubisoft-e3/"
+        },
+        {
+            "name": "Sony",
+            "url": "http://e3.gamespot.com/press-conference/sony-e3/"
+        },
+        {
+            "name": "Nintendo",
+            "url": "http://e3.gamespot.com/press-conference/nintendo-e3/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-e3-thoughts/",
+        "small": "background: url(/img/h/06ed51bb825f3f8aaa61cf297803c2b2.jpg) 0px -252px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

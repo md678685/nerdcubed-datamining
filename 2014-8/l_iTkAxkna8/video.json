@@ -1,0 +1,28 @@
+{
+    "title": "Dad³ Plays... FaceBreaker",
+    "date": "2014-09-13",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.ea.com/facebreaker"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Also Sprach Zarathustra",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-plays-facebreaker/",
+        "small": "background: url(/img/h/df760cecfc20dda7b9326b499fdd5fc7.jpg) -448px -378px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_3"
+        ]
+    }
+}

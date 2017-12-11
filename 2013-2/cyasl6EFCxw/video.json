@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³ Plays... BioShock Infinite",
+    "date": "2013-03-26",
+    "links": [
+        {
+            "name": "Game Site",
+            "url": "http://www.bioshockinfinite.com"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-bioshock-infinite/",
+        "small": "background: url(/img/h/6af52fcb6e4be6d2e29edb8e2eda5b09.jpg) -448px -126px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

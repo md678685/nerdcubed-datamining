@@ -1,0 +1,26 @@
+{
+    "title": "Dad³ - Channel Trailer!",
+    "date": "2013-04-26",
+    "links": [
+        {
+            "name": "FIRST VIDEO HERE!",
+            "url": "http://www.youtube.com/watch?v=L-nzALREk0c"
+        },
+        {
+            "name": "Music",
+            "url": "http://incompetech.com/music/royalty-free/index.html?keywords=%22Pop+Goes+the+Weasel%22&amp;Search=Search"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-channel-trailer/",
+        "small": "background: url(/img/h/30e21b2564c7052a1ea1ee34e9c80865.jpg) 0px -252px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

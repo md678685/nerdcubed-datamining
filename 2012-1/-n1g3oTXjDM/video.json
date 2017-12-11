@@ -1,0 +1,48 @@
+{
+    "title": "Nerd³'s Free Games Extravaganza!",
+    "date": "2012-02-02",
+    "links": [
+        {
+            "name": "N.",
+            "url": "http://www.thewayoftheninja.org/n.html"
+        },
+        {
+            "name": "Kerbal Space Program.",
+            "url": "http://kerbalspaceprogram.com/download.php"
+        },
+        {
+            "name": "TrackMania Nations Forever. (Click the button with green text that says \"Free Game Download)",
+            "url": "http://trackmaniaforever.com/"
+        },
+        {
+            "name": "or",
+            "url": "http://store.steampowered.com/app/11020/"
+        },
+        {
+            "name": "Not Tetris 2",
+            "url": "http://stabyourself.net/nottetris2"
+        },
+        {
+            "name": "Star Trek Online",
+            "url": "http://www.startrekonline.com/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Danse Macabre - Big Hit 1",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-free-games-extravaganza/",
+        "small": "background: url(/img/h/1a308b45045556df11249b4401cad854.jpg) -448px -252px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

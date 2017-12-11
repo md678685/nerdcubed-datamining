@@ -1,0 +1,40 @@
+{
+    "title": "Nerd³ TubeCast - Episode 4",
+    "date": "2012-08-27",
+    "links": [
+        {
+            "name": "Wot's Twitter!",
+            "url": "https://twitter.com/wotfanar"
+        },
+        {
+            "name": "Planetary Annihilation",
+            "url": "http://www.kickstarter.com/projects/659943965/planetary-annihilation-a-next-generation-rts"
+        },
+        {
+            "name": "Mercenary Kings",
+            "url": "http://www.kickstarter.com/projects/322438897/mercenary-kings"
+        },
+        {
+            "name": "Broken Sword",
+            "url": "http://www.kickstarter.com/projects/165500047/broken-sword-the-serpents-curse-adventure"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Plucky Daisy",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "Officiallynerdcubed",
+        "url": "https://www.youtube.com/channel/UCwfFfKK8h1PBJkbv1tJjWJg"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-tubecast-episode-4/",
+        "small": "background: url(/img/h/34db405a464ebe6c8eaa3936c602fac2.jpg) 0px 0px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_2"
+        ]
+    }
+}

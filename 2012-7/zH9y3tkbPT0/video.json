@@ -1,0 +1,26 @@
+{
+    "title": "Nerd³ Plays... Red Faction: Guerrilla",
+    "date": "2012-08-05",
+    "links": [
+        {
+            "name": "AMA Link",
+            "url": "http://www.reddit.com/r/IAmA/comments/xq2wh/iama_full_time_youtuber_i_am_officialnerdcubed_ama/"
+        },
+        {
+            "name": "Game site",
+            "url": "http://rfg.redfaction.com/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-red-faction-guerrilla/",
+        "small": "background: url(/img/h/b3cccd79fbd87078649d5237e37049d3.jpg) 0px -252px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

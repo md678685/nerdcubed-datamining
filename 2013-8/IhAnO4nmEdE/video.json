@@ -1,0 +1,33 @@
+{
+    "title": "Return of the Canada",
+    "date": "2013-09-13",
+    "links": [
+        {
+            "name": "SUPER SPECIAL GUEST EMMA BLACKERY'S YOUTUBE CHANNEL",
+            "url": "http://www.youtube.com/user/emmablackery"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Our Story Begins",
+            "url": "http://www.incompetech.com/"
+        },
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Also Sprach Zarathustra",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "Officiallynerdcubed",
+        "url": "https://www.youtube.com/channel/UCwfFfKK8h1PBJkbv1tJjWJg"
+    },
+    "websiteData": {
+        "path": "/videos/return-of-the-canada/",
+        "small": "background: url(/img/h/9a02e9d88563774e4f59dcb596779abe.jpg) -224px 0px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_2"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "title": "Nerd³ Plays... QWOP",
+    "date": "2012-07-30",
+    "links": [
+        {
+            "name": "Play QWOP now!",
+            "url": "http://www.foddy.net/Athletics.html"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-qwop/",
+        "small": "background: url(/img/h/a7c3f4e85869e012c78197fc496049f3.jpg) -672px -378px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

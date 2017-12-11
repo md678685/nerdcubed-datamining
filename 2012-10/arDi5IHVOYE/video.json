@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³ Plays... Thomas Was Alone",
+    "date": "2012-11-27",
+    "links": [
+        {
+            "name": "Game link",
+            "url": "http://www.thomaswasalone.com/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-thomas-was-alone/",
+        "small": "background: url(/img/h/256d168778cf91a557d52d52d507848e.jpg) -672px -378px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

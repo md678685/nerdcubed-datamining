@@ -1,0 +1,22 @@
+{
+    "title": "Dad³ Plays... Tomb Raider",
+    "date": "2014-04-05",
+    "links": [
+        {
+            "name": "Game link",
+            "url": "http://www.tombraider.com"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-plays-tomb-raider/",
+        "small": "background: url(/img/h/7b3749ef1311e4bc71969a737cc2e8e5.jpg) 0px -126px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_3"
+        ]
+    }
+}

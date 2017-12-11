@@ -1,0 +1,32 @@
+{
+    "title": "Nerd³ FW - Ashens Game Jam 2015",
+    "date": "2015-03-19",
+    "links": [
+        {
+            "name": "Game links",
+            "url": "http://ashensjam.bossastudios.com/"
+        },
+        {
+            "name": "You should also go subscribe to Ashens. You really, really should.",
+            "url": "https://www.youtube.com/user/ashens"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-fw-ashens-game-jam-2015/",
+        "small": "background: url(/img/h/659744abf2810d4059d89f2972458043.jpg) -224px -126px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "title": "Dan's Vlog! The Day the Internet Stood Still",
+    "date": "2013-02-08",
+    "links": [],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Plucky Daisy",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "Officiallynerdcubed",
+        "url": "https://www.youtube.com/channel/UCwfFfKK8h1PBJkbv1tJjWJg"
+    },
+    "websiteData": {
+        "path": "/videos/dan-s-vlog-the-day-the-internet-stood-still/",
+        "small": "background: url(/img/h/f7b759a573dd5e45b6e04ffa9f9c5385.jpg) -448px -126px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_2"
+        ]
+    }
+}

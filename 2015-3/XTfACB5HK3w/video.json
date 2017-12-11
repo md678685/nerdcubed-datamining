@@ -1,0 +1,33 @@
+{
+    "title": "Nerd³ FW - Google Feud",
+    "date": "2015-04-09",
+    "links": [
+        {
+            "name": "Game link",
+            "url": "http://www.googlefeud.com/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Got Funk",
+            "url": "http://www.incompetech.com/"
+        },
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-fw-google-feud/",
+        "small": "background: url(/img/h/8a759cfa484b622bd5f4187a40bfc986.jpg) 0px -504px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

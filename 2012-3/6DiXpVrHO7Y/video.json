@@ -1,0 +1,22 @@
+{
+    "title": "Nerd³ Plays... Mass Effect 3",
+    "date": "2012-04-13",
+    "links": [
+        {
+            "name": "Game link!",
+            "url": "http://masseffect.com"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-mass-effect-3/",
+        "small": "background: url(/img/h/fcbc663550d3eb68c5050efbe2a84859.jpg) 0px -252px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

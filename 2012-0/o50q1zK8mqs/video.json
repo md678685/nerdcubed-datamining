@@ -1,0 +1,22 @@
+{
+    "title": "Nerd³ Plays... Left 4 Dead 2",
+    "date": "2012-01-25",
+    "links": [
+        {
+            "name": "Game link!",
+            "url": "http://www.l4d.com/blog/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-left-4-dead-2/",
+        "small": "background: url(/img/h/1a308b45045556df11249b4401cad854.jpg) 0px -252px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

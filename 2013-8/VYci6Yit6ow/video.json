@@ -1,0 +1,26 @@
+{
+    "title": "Dad³ Plays... Portal 2",
+    "date": "2013-09-28",
+    "links": [
+        {
+            "name": "Game link",
+            "url": "http://www.thinkwithportals.com/"
+        },
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/620/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-plays-portal-2/",
+        "small": "background: url(/img/h/64aeb0201c56d65b1e731f247e0ea559.jpg) -224px -126px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_3"
+        ]
+    }
+}

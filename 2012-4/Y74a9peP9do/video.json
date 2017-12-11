@@ -1,0 +1,26 @@
+{
+    "title": "Nerd³ Plays... Assassin's Creed: Revelations",
+    "date": "2012-05-06",
+    "links": [
+        {
+            "name": "AMA LINK",
+            "url": "http://www.reddit.com/r/IAmA/comments/t9wiq/iama_guy_who_makes_lets_play_style_videos/"
+        },
+        {
+            "name": "Game link!",
+            "url": "http://assassinscreed.ubi.com/revelations/en-GB/home/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-assassin-s-creed-revelations/",
+        "small": "background: url(/img/h/fcbc663550d3eb68c5050efbe2a84859.jpg) 0px -504px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

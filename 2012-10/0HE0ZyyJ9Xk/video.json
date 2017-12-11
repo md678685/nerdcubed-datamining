@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³ Plays... Dragon Ball Z: Budokai 3 HD",
+    "date": "2012-11-23",
+    "links": [
+        {
+            "name": "Dragon Ball Z Abridged",
+            "url": "http://teamfourstar.com/page-episodes"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-dragon-ball-z-budokai-3-hd/",
+        "small": "background: url(/img/h/256d168778cf91a557d52d52d507848e.jpg) -672px 0px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

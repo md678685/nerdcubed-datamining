@@ -1,0 +1,28 @@
+{
+    "title": "Dad³ Plays... Grand Theft Auto V Blindfolded!",
+    "date": "2013-10-19",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.rockstargames.com/V"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Mistake the Getaway",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-plays-grand-theft-auto-v-blindfolded/",
+        "small": "background: url(/img/h/0a3fbb06569afd2b91929c0a83b79d2e.jpg) -224px -378px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_3"
+        ]
+    }
+}

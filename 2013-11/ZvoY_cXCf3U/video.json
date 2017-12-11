@@ -1,0 +1,22 @@
+{
+    "title": "Dad³ Plays... Gran Turismo 6",
+    "date": "2013-12-14",
+    "links": [
+        {
+            "name": "Game link",
+            "url": "http://www.gran-turismo.com/gb/products/gt6/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-plays-gran-turismo-6/",
+        "small": "background: url(/img/h/fbbe1a93661a4bd3772b4aad80edda12.jpg) 0px -252px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_3"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Nerd³ Challenges! Writing My Name! - Grow Home",
+    "date": "2015-03-05",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "https://www.ubisoft.com/en-GB/game/grow-home/"
+        },
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/323320/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-challenges-writing-my-name-grow-home/",
+        "small": "background: url(/img/h/9c1cbc21b60c0541ac42d182d2d6d8ab.jpg) -448px -252px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Nerd³ FW - 1000 Amps",
+    "date": "2014-10-15",
+    "links": [
+        {
+            "name": "Steam Link",
+            "url": "http://store.steampowered.com/app/205690/"
+        },
+        {
+            "name": "End theme by the incredible Dan Bull!",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-fw-1000-amps/",
+        "small": "background: url(/img/h/1a4b4fa4c757d3e2a22b0fe983ca8a2b.jpg) -448px 0px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

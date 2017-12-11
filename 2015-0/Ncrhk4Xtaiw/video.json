@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³ Plays... XIII",
+    "date": "2015-01-17",
+    "links": [],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Evening of Chaos",
+            "url": "http://www.incompetech.com/"
+        },
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-xiii/",
+        "small": "background: url(/img/h/a1b8ba10c21130235f3755cd253eefe7.jpg) 0px 0px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

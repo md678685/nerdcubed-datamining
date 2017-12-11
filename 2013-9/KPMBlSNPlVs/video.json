@@ -1,0 +1,22 @@
+{
+    "title": "Dad³ Plays... Grand Theft Auto Online",
+    "date": "2013-10-26",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.rockstargames.com/V"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-plays-grand-theft-auto-online/",
+        "small": "background: url(/img/h/06af571808b70cb0d03b046806c63e0c.jpg) -224px 0px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_3"
+        ]
+    }
+}

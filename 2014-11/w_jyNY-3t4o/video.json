@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³'s Hell... Fireworks Simulator",
+    "date": "2014-12-12",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "https://www.youtube.com/watch?v=NRItYDKSqpQ"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-hell-fireworks-simulator/",
+        "small": "background: url(/img/h/9cd8d508f770d2643f7ae4f5c07f8e0a.jpg) -224px -252px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

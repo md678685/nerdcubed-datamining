@@ -1,0 +1,23 @@
+{
+    "title": "Nerd³ Vlogs... Questions and Insults",
+    "date": "2015-01-16",
+    "links": [],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Easy Lemon",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "Officiallynerdcubed",
+        "url": "https://www.youtube.com/channel/UCwfFfKK8h1PBJkbv1tJjWJg"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-vlogs-questions-and-insults/",
+        "small": "background: url(/img/h/1b7844e3084b9dab837b78c0891b0160.jpg) -672px -252px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_2"
+        ]
+    }
+}

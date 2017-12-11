@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³ Challenges! Shark Hunt! - GTA V",
+    "date": "2013-11-23",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.rockstargames.com/V/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-challenges-shark-hunt-gta-v/",
+        "small": "background: url(/img/h/384579185da14e0af4025b6e35b228e5.jpg) -672px -504px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

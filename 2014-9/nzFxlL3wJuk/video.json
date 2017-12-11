@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³ FW - Lovely Planet",
+    "date": "2014-10-02",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://store.steampowered.com/app/298600/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-fw-lovely-planet/",
+        "small": "background: url(/img/h/963077f5106838d3f1e7b4e9ca747038.jpg) -448px 0px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

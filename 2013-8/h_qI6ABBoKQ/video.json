@@ -1,0 +1,33 @@
+{
+    "title": "When Emma met Dan - Trailer",
+    "date": "2013-09-14",
+    "links": [
+        {
+            "name": "The Video is here",
+            "url": "http://www.youtube.com/watch?v=P6SHXSo7kPo"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Backed Vibes",
+            "url": "http://www.incompetech.com/"
+        },
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Backed Vibes ",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "Officiallynerdcubed",
+        "url": "https://www.youtube.com/channel/UCwfFfKK8h1PBJkbv1tJjWJg"
+    },
+    "websiteData": {
+        "path": "/videos/when-emma-met-dan-trailer/",
+        "small": "background: url(/img/h/9a02e9d88563774e4f59dcb596779abe.jpg) -448px 0px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_2"
+        ]
+    }
+}

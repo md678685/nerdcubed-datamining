@@ -1,0 +1,38 @@
+{
+    "title": "My Nerd Kitchen (A My Drunk Kitchen Parody)",
+    "date": "2013-10-01",
+    "links": [
+        {
+            "name": "Visit the Wonderful Hannah Hart (On whom this parody is based) here",
+            "url": "http://www.youtube.com/user/MyHarto"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Off to Osaka",
+            "url": "http://www.incompetech.com/"
+        },
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Opportunity Walks",
+            "url": "http://www.incompetech.com/"
+        },
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Awesome Call",
+            "url": "http://www.incompetech.com/"
+        }
+    ],
+    "source": {
+        "name": "Officiallynerdcubed",
+        "url": "https://www.youtube.com/channel/UCwfFfKK8h1PBJkbv1tJjWJg"
+    },
+    "websiteData": {
+        "path": "/videos/my-nerd-kitchen-a-my-drunk-kitchen-parody/",
+        "small": "background: url(/img/h/64aeb0201c56d65b1e731f247e0ea559.jpg) -448px -126px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_2"
+        ]
+    }
+}

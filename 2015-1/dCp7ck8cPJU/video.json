@@ -1,0 +1,28 @@
+{
+    "title": "Nerd³'s Father and Son-Days - Call of Duty: Modern Warfare 2",
+    "date": "2015-02-08",
+    "links": [
+        {
+            "name": "Game Link",
+            "url": "http://www.callofduty.com/"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Dan Bull",
+            "track": "End theme",
+            "url": "http://www.youtube.com/user/douglby"
+        }
+    ],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-father-and-son-days-call-of-duty-modern-warfare-2/",
+        "small": "background: url(/img/h/4b538e21ee746248acb512c995dc0298.jpg) -224px -252px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}

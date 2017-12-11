@@ -1,0 +1,22 @@
+{
+    "title": "Dad³ Plays... Dishonored",
+    "date": "2014-03-29",
+    "links": [
+        {
+            "name": "Game link",
+            "url": "http://www.dishonored.com/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialDadCubed",
+        "url": "https://www.youtube.com/channel/UCjGOhTp9qmQHtlW5DKQ15jg"
+    },
+    "websiteData": {
+        "path": "/videos/dadcubed-plays-dishonored/",
+        "small": "background: url(/img/h/223d53580a0f1eead297ccf96ee8a597.jpg) -672px 0px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_3"
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "title": "I've always liked the name Bruce. Name it that. (Q&A Vlog)",
+    "date": "2012-04-01",
+    "links": [
+        {
+            "name": "Amy's blog",
+            "url": "http://amymariegraves.wordpress.com/"
+        },
+        {
+            "name": "Amy's Twitter",
+            "url": "https://twitter.com/AmyMarieGraves"
+        },
+        {
+            "name": "Hannah Hart's Youtube Page",
+            "url": "http://www.youtube.com/user/MyHarto"
+        },
+        {
+            "name": "My Fav Video of hers",
+            "url": "http://www.youtube.com/watch?v=vl6azn-DzeE"
+        }
+    ],
+    "music": [
+        {
+            "credit": "Kevin MacLeod",
+            "track": "Plucky Daisy",
+            "url": "http://www.incompetech.com/"
+        },
+        {
+            "credit": "Gregory Bakay",
+            "track": "Music",
+            "url": "http://www.wix.com/Gregory_Bakay/gregorybakay"
+        },
+        {
+            "credit": "Gorillaz",
+            "track": "DoYaThing",
+            "url": "http://play.converse.com/blog/2012/02/23/doyathing/"
+        }
+    ],
+    "source": {
+        "name": "Officiallynerdcubed",
+        "url": "https://www.youtube.com/channel/UCwfFfKK8h1PBJkbv1tJjWJg"
+    },
+    "websiteData": {
+        "path": "/videos/i-ve-always-liked-the-name-bruce-name-it-that-q-a-vlog/",
+        "small": "background: url(/img/h/2207f6b25c966007bf92a0f7246f073e.jpg) -672px 0px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_2"
+        ]
+    }
+}

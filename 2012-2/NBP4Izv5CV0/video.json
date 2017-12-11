@@ -1,0 +1,26 @@
+{
+    "title": "Nerd³ Plays... Just Cause 2 UNCUT",
+    "date": "2012-03-25",
+    "links": [
+        {
+            "name": "Game page!",
+            "url": "http://www.justcause.com/home"
+        },
+        {
+            "name": "Superman Mod",
+            "url": "http://www.justcause2mods.com/mods/other/Parachute/Superman-Flying-Mod-Version-4/"
+        }
+    ],
+    "music": [],
+    "source": {
+        "name": "OfficialNerdCubed",
+        "url": "https://www.youtube.com/channel/UCKab3hYnOoTZZbEUQBMx-ww"
+    },
+    "websiteData": {
+        "path": "/videos/nerdcubed-plays-just-cause-2-uncut/",
+        "small": "background: url(/img/h/2207f6b25c966007bf92a0f7246f073e.jpg) -224px -378px no-repeat; width: 224px; height: 126px",
+        "tags": [
+            "channel_1"
+        ]
+    }
+}
